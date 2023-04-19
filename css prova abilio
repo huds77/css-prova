@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    background-color: #DCE9E2;
+
+}
+
+#menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 27px 117px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 32px;
+}
+a{
+    color: #00856F;
+}
+button{
+    color: #00856F;
+    border: 1px solid #00856F;
+    padding: 10px 24px;
+    border-radius: 15px;
+}
